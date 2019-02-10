@@ -8,6 +8,7 @@ public class TestClass
     {
         System.out.println (text);
     }
+    
     public static void main (String[] args)
     {
         FileTool File = new FileTool ("c:\\Users\\jupit\\OneDrive\\Projekte (JAVA)\\FileTool\\target\\text.txt");
